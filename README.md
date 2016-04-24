@@ -1,6 +1,6 @@
 # mitm-bash-script
 
-MiTM Script designed for tricking a mobile device user to install a rogue CA file to allow for SSL interception.
+MiTM Script designed for tricking a mobile device user to install a rogue CA file to allow for mobile application SSL interception.
 
 How to use:
 
